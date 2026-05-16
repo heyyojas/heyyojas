@@ -44,12 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyoyojas&show_icons=true&theme=dark" alt="Ojas's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyoyojas&layout=compact&theme=dark" alt="Top Langs" height="150" />
-</p>
-
 <br>
 
 <div align="center">
