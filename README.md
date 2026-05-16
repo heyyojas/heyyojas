@@ -38,7 +38,7 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,git,html,java,mysql,python" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,python" alt="My Skills" />
   </a>
 </p>
 
