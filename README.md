@@ -8,7 +8,7 @@
       <p style="color: #ff5e62;">trying to become the 'i know everything' guy.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/xTiTnHvXHZxIcbOebK/giphy.gif" width="250" alt="Peter Parker typing" />
+      <img src="https://github.com/user-attachments/assets/0fea97c5-3c46-480c-895c-45d9b2f2c61f" />
     </td>
   </tr>
 </table>
@@ -23,9 +23,10 @@
 
 <br>
 
+
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/heyyojas" target="_blank">
+  <a href="https://linkedin.com/in/heyy_ojas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://codeforces.com/profile/heyyojas" target="_blank">
