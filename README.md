@@ -15,9 +15,8 @@
 
 <br>
 
-🔭 I'm currently working on minial side projects and on competitive programming, I do leetcode contests as well !!**
+🔭 I'm currently working on minial side projects and on competitive programming !!**
 
-📫 Reach me at **[sharmaojas56@gmail.com]**
 
 ⚡ Fun fact: **I once accidentally tanked my contest rating by submitting multiple times on the first question... still grinding it back up! 😅**
 
