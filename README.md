@@ -15,13 +15,13 @@
 
 <br>
 
-🔭 I'm currently working on minial side projects and on competitive programming !!**
-
+🔭 I'm currently working on **minimal side projects and on competitive programming !!**
 
 ⚡ Fun fact: **I once accidentally tanked my contest rating by submitting multiple times on the first question... still grinding it back up! 😅**
 
 <br>
 
+---
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -32,3 +32,28 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,git,html,java,mysql,python" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyoyojas&show_icons=true&theme=dark" alt="Ojas's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyoyojas&layout=compact&theme=dark" alt="Top Langs" height="150" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://media.tenor.com/b0Xz-k_D8WcAAAAi/cat-pet.gif" width="150" alt="Cute Cat Petting" />
+  <br>
+  <em>Thanks for visiting! Have a great day 🐱</em>
+</div>
