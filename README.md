@@ -47,7 +47,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/b0Xz-k_D8WcAAAAi/cat-pet.gif" width="150" alt="Cute Cat Petting" />
+  <img src="https://github.com/user-attachments/assets/1843978c-1eb3-450f-814c-8beedf862f34" />
   <br>
   <em>Thanks for visiting! Have a great day 🐱</em>
 </div>
