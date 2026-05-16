@@ -15,7 +15,7 @@
 
 <br>
 
-🔭 I'm currently working on **mastering sliding window algorithms and diving deep into Computer Architecture.**
+🔭 I'm currently working on minial side projects and on competitive programming, I do leetcode contests as well !!**
 
 📫 Reach me at **[sharmaojas56@gmail.com]**
 
