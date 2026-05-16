@@ -26,10 +26,10 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/heyy_ojas" target="_blank">
+  <a href="https://linkedin.com/in/heyyojas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/heyyojas" target="_blank">
+  <a href="https://codeforces.com/profile/heyy_ojas" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
