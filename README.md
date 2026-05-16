@@ -49,5 +49,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c4344cc2-d08d-49c9-802c-615ae0c559c5" />
   <br>
-  <em>Thanks for visiting! Have a great day 😚😋</em>
+  <em>  bye bye😚😋</em>
 </div>
