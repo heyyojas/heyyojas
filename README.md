@@ -17,7 +17,7 @@
 
 🔭 I'm currently working on **minimal side projects and on competitive programming !!**
 
-⚡ Fun fact: **I once accidentally tanked my contest rating by submitting multiple times on the first question... still grinding it back up! 😅**
+⚡ Fun fact: **I can play guitar🎸🎸**
 
 <br>
 
