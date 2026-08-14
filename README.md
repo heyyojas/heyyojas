@@ -32,7 +32,9 @@
 
 ### 📊 LeetCode Stats:
 <p align="left">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=heyy_ojas&theme=dark" alt="LeetCode Stats" />
+  <a href="https://github.com/JacobLinCool/LeetCode-Card">
+    <img src="https://leetcard.jacoblin.cool/heyy_ojas?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
