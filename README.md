@@ -12,7 +12,8 @@
   </tr>
 </table>
 <br>
-🔭 I'm currently working on **minimal side projects and on competitive programming !!**
+🔭 I'm currently working on **minimal side projects and on competitive programming !!**  
+
 ⚡ Fun fact: **I can play guitar🎸🎸**
 <br>
 
