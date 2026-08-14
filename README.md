@@ -33,7 +33,7 @@
 ### 📊 LeetCode Stats:
 <p align="left">
   <a href="https://github.com/JacobLinCool/LeetCode-Card">
-    <img src="https://leetcard.jacoblin.cool/heyy_ojas?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+    <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/heyyojas?theme=light&font=Snippet)" />
   </a>
 </p>
 
