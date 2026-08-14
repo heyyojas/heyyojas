@@ -1,5 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=heyoyojas&color=dc143c&style=flat-square&label=PROFILE+VIEWS)
-
 <table width="100%">
   <tr>
     <td width="60%">
@@ -12,13 +11,9 @@
     </td>
   </tr>
 </table>
-
 <br>
-
 🔭 I'm currently working on **minimal side projects and on competitive programming !!**
-
 ⚡ Fun fact: **I can play guitar🎸🎸**
-
 <br>
 
 ---
@@ -35,6 +30,13 @@
 
 ---
 
+### 📊 LeetCode Stats:
+<p align="left">
+  <img src="https://leetcode-stats-card.vercel.app/api?username=heyy_ojas&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
@@ -43,9 +45,7 @@
 </p>
 
 ---
-
 <br>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c4344cc2-d08d-49c9-802c-615ae0c559c5" />
   <br>
